@@ -1,7 +1,3 @@
-Here is the content ready for your `README.md` file, tailored for your [ImageClassifier](https://github.com/BasselSi/ImageClassifier) project:
-
----
-
 # Image Classifier Project
 
 This repository demonstrates how to build, train, evaluate, and use an image classifier for flowers using TensorFlow and transfer learning. Leveraging the Oxford Flowers 102 dataset and MobileNetV2, you can train a model to recognize over 100 flower species.
